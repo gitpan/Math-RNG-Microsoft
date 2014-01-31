@@ -5,7 +5,7 @@ use strict;
 use warnings;
 
 
-our $VERSION = '0.0.1';
+our $VERSION = '0.0.2';
 
 
 
@@ -60,7 +60,7 @@ with Visual C.
 
 =head1 VERSION
 
-version 0.0.1
+version 0.0.2
 
 =head1 SYNOPSIS
 
@@ -84,7 +84,7 @@ compatibility with the Windows C Run-time-library is needed.
 
 =head1 VERSION
 
-Version 0.0.1
+Version 0.0.2
 
 =head1 SUBROUTINES/METHODS
 
