@@ -5,7 +5,7 @@ use strict;
 use warnings;
 
 
-our $VERSION = '0.0.2';
+our $VERSION = '0.0.3';
 
 
 
@@ -60,7 +60,7 @@ with Visual C.
 
 =head1 VERSION
 
-version 0.0.2
+version 0.0.3
 
 =head1 SYNOPSIS
 
@@ -84,7 +84,7 @@ compatibility with the Windows C Run-time-library is needed.
 
 =head1 VERSION
 
-Version 0.0.2
+Version 0.0.3
 
 =head1 SUBROUTINES/METHODS
 
@@ -249,8 +249,8 @@ The code is open to the world, and available for you to hack on. Please feel fre
 with it, or whatever. If you want to contribute patches, please send me a diff or prod me to pull
 from your repository :)
 
-L<http://bitbucket.org/shlomif/perl-Math-RNG-Microsoft>
+L<http://bitbucket.org/shlomif/abc-path>
 
-  hg clone ssh://hg@bitbucket.org/shlomif/perl-Math-RNG-Microsoft
+  hg clone ssh://hg@bitbucket.org/shlomif/abc-path
 
 =cut
